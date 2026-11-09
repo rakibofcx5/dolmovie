@@ -1,0 +1,20 @@
+/* Replace demo records with licensed titles and official provider URLs.
+   Do not add pirated streams or links to unauthorized copies. */
+window.MOVIES = [
+ {id:1,title:"The Last Horizon",year:"2025",genre:"Action",rating:"8.1",poster:"https://i.ibb.co.com/p69Pv9th/Ingoude-Company-10mb.jpg",description:"A cinematic demo entry about a daring journey beyond the known world.",watchUrl:"",trailerUrl:""},
+ {id:2,title:"Midnight in the City",year:"2024",genre:"Drama",rating:"7.8",poster:"https://i.ibb.co.com/p69Pv9th/Ingoude-Company-10mb.jpg",description:"A drama demo entry set against the lights and quiet corners of a city.",watchUrl:"",trailerUrl:""},
+ {id:3,title:"Red Signal",year:"2025",genre:"Thriller",rating:"7.9",poster:"https://i.ibb.co.com/p69Pv9th/Ingoude-Company-10mb.jpg",description:"A thriller demo entry where every clue changes the story.",watchUrl:"",trailerUrl:""},
+ {id:4,title:"Summer Side Up",year:"2023",genre:"Comedy",rating:"7.5",poster:"https://i.ibb.co.com/p69Pv9th/Ingoude-Company-10mb.jpg",description:"A light-hearted comedy demo entry about unexpected friendships.",watchUrl:"",trailerUrl:""},
+ {id:5,title:"Beyond the Blue",year:"2024",genre:"Animation",rating:"8.3",poster:"https://i.ibb.co.com/p69Pv9th/Ingoude-Company-10mb.jpg",description:"An animation demo entry filled with wonder and discovery.",watchUrl:"",trailerUrl:""},
+ {id:6,title:"Silent Witness",year:"2025",genre:"Thriller",rating:"8.0",poster:"https://i.ibb.co.com/p69Pv9th/Ingoude-Company-10mb.jpg",description:"A mystery demo entry with secrets hidden in plain sight.",watchUrl:"",trailerUrl:""},
+ {id:7,title:"The Long Road",year:"2023",genre:"Drama",rating:"7.7",poster:"https://i.ibb.co.com/p69Pv9th/Ingoude-Company-10mb.jpg",description:"A thoughtful drama demo entry about choices, family and home.",watchUrl:"",trailerUrl:""},
+ {id:8,title:"Velocity",year:"2025",genre:"Action",rating:"8.2",poster:"https://i.ibb.co.com/p69Pv9th/Ingoude-Company-10mb.jpg",description:"An action demo entry built around speed, courage and consequence.",watchUrl:"",trailerUrl:""},
+ {id:9,title:"The Last Horizon",year:"2025",genre:"Action",rating:"8.1",poster:"https://i.ibb.co.com/p69Pv9th/Ingoude-Company-10mb.jpg",description:"A cinematic demo entry about a daring journey beyond the known world.",watchUrl:"",trailerUrl:""},
+ {id:10,title:"Midnight in the City",year:"2024",genre:"Drama",rating:"7.8",poster:"https://i.ibb.co.com/p69Pv9th/Ingoude-Company-10mb.jpg",description:"A drama demo entry set against the lights and quiet corners of a city.",watchUrl:"",trailerUrl:""},
+ {id:11,title:"Red Signal",year:"2025",genre:"Thriller",rating:"7.9",poster:"https://i.ibb.co.com/p69Pv9th/Ingoude-Company-10mb.jpg",description:"A thriller demo entry where every clue changes the story.",watchUrl:"",trailerUrl:""},
+ {id:12,title:"Summer Side Up",year:"2023",genre:"Comedy",rating:"7.5",poster:"https://i.ibb.co.com/p69Pv9th/Ingoude-Company-10mb.jpg",description:"A light-hearted comedy demo entry about unexpected friendships.",watchUrl:"",trailerUrl:""},
+ {id:13,title:"Beyond the Blue",year:"2024",genre:"Animation",rating:"8.3",poster:"https://i.ibb.co.com/p69Pv9th/Ingoude-Company-10mb.jpg",description:"An animation demo entry filled with wonder and discovery.",watchUrl:"",trailerUrl:""},
+ {id:14,title:"Silent Witness",year:"2025",genre:"Thriller",rating:"8.0",poster:"https://i.ibb.co.com/p69Pv9th/Ingoude-Company-10mb.jpg",description:"A mystery demo entry with secrets hidden in plain sight.",watchUrl:"",trailerUrl:""},
+ {id:15,title:"The Long Road",year:"2023",genre:"Drama",rating:"7.7",poster:"https://i.ibb.co.com/p69Pv9th/Ingoude-Company-10mb.jpg",description:"A thoughtful drama demo entry about choices, family and home.",watchUrl:"",trailerUrl:""},
+ {id:16,title:"Velocity",year:"2025",genre:"Action",rating:"8.2",poster:"https://i.ibb.co.com/p69Pv9th/Ingoude-Company-10mb.jpg",description:"An action demo entry built around speed, courage and consequence.",watchUrl:"",trailerUrl:""}
+];
